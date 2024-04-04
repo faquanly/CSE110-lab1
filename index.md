@@ -11,7 +11,7 @@
    
    - ![Command line](part1-pic1.png)
   
-   - ![VSCode UI](part1-pic2.png)
+   - ![VSCode UI](part2-pic2.png)
      
 3. **Section links:**
    [README.md](https://faquanly.github.io/CSE110-lab1/)
