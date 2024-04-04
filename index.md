@@ -8,16 +8,19 @@
 
      
 2. **Part 2. (Re)Familiarizing Ourselves with Git:**
-   
-   - ![Command line](part1-pic1.png)
-  
-   - ![VSCode UI](part2-pic2.png)
+
+   - Command line
+     ![Command line](part1-pic1.png)
+   - VS Code
+     ![VSCode UI](part2-pic2.png)
      
-3. **Section links:**
+2. **Section links:**
    [README.md](https://faquanly.github.io/CSE110-lab1/)
 
-4. **Task lists:**
+3. **Task lists:**
 
-   -[x] Part 1
+   - [x] Part 1
    
-   -[ ] https://faquanly.github.io/CSE110-lab1/
+   - [x] Part 2
+
+   - [x] Part 3
